@@ -23,11 +23,14 @@ Deliverables
 2048.jar : Standalone runnable jar file. 
 	Running the JAR
 	----------------
- 	The 4 arrow keys move the tiles in the 4 directions. The 'A' key runs the algorithms, calculates the best move and applies one move. 
+ 	The 4 arrow keys move the tiles in the 4 directions. The 'A' key runs the algorithms, 
+	calculates the best move and applies one move. 
 	Note that, it applies only one move at one key press. Hold down 'A' key for continuous moves.
 
 Project source files along with Java Docs
 	Running the code
 	----------------
-	The 'ui' package contains a class called 'GameMain'. Run that to execute the ui version of the game.
-	There is also a class in 'ui' called 'ConsoleGame', which can be used to play the game in the console mode
+	The 'ui' package contains a class called 'GameMain'. Run that to execute the ui version of the 
+	game.
+	There is also a class in 'ui' called 'ConsoleGame', which can be used to play the game in the 
+	console mode
