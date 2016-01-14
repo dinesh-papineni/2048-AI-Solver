@@ -1,7 +1,7 @@
 =============================
 2048Solver
 =============================
-contact p.dineshchowdary@gmail.edu for further information or any help.
+contact p.dineshchowdary@gmail.com for further information or any help.
 
 Description
 =============================
