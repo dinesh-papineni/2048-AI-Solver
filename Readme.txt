@@ -10,7 +10,7 @@ An artificial intelligent agent that solves the 2048 game by using MinMax algori
 	Part I: Problem Generator. 
 			Generates the 2048 problem randomly.
 	Part II: Algorithm
-			 Attempts to solve the 2048 problem using articial intelligence. 
+			 Attempts to solve the 2048 problem using artificial intelligence. 
 	Part III: Manager
 			  Acts as the interface between Solver and Generator. Solvers sends a query for a specific location via Manager to the Generator, which in turn responds according to the rules of the game.
 			
